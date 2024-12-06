@@ -1,0 +1,44 @@
+2024-12-06 13:48:02 - CPU Usage: 4.8%
+2024-12-06 13:48:02 - Memory Usage: 29.9% (Used: 140 MB, Total: 949 MB)
+2024-12-06 13:48:02 - Disk Usage: 19.8% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:48:02 - Network: Sent: 0 MB, Received: 35 MB
+2024-12-06 13:49:02 - CPU Usage: 13.2%
+2024-12-06 13:49:02 - Memory Usage: 30.1% (Used: 141 MB, Total: 949 MB)
+2024-12-06 13:49:02 - Disk Usage: 19.8% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:49:02 - Network: Sent: 0 MB, Received: 35 MB
+2024-12-06 13:50:02 - CPU Usage: 7.4%
+2024-12-06 13:50:02 - Memory Usage: 30.5% (Used: 142 MB, Total: 949 MB)
+2024-12-06 13:50:02 - Disk Usage: 22.3% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:50:02 - Network: Sent: 1 MB, Received: 74 MB
+2024-12-06 13:51:02 - CPU Usage: 6.5%
+2024-12-06 13:51:02 - Memory Usage: 30.6% (Used: 143 MB, Total: 949 MB)
+2024-12-06 13:51:02 - Disk Usage: 22.1% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:51:02 - Network: Sent: 1 MB, Received: 74 MB
+2024-12-06 13:52:03 - CPU Usage: 13.9%
+2024-12-06 13:52:03 - Memory Usage: 30.9% (Used: 146 MB, Total: 949 MB)
+2024-12-06 13:52:03 - Disk Usage: 22.1% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:52:03 - Network: Sent: 1 MB, Received: 74 MB
+2024-12-06 13:53:02 - CPU Usage: 1.0%
+2024-12-06 13:53:02 - Memory Usage: 30.9% (Used: 146 MB, Total: 949 MB)
+2024-12-06 13:53:02 - Disk Usage: 22.1% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:53:02 - Network: Sent: 1 MB, Received: 74 MB
+2024-12-06 13:54:02 - CPU Usage: 2.9%
+2024-12-06 13:54:02 - Memory Usage: 30.9% (Used: 146 MB, Total: 949 MB)
+2024-12-06 13:54:02 - Disk Usage: 22.1% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:54:02 - Network: Sent: 1 MB, Received: 74 MB
+2024-12-06 13:55:02 - CPU Usage: 8.9%
+2024-12-06 13:55:02 - Memory Usage: 31.2% (Used: 148 MB, Total: 949 MB)
+2024-12-06 13:55:02 - Disk Usage: 22.1% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:55:02 - Network: Sent: 1 MB, Received: 75 MB
+2024-12-06 13:56:02 - CPU Usage: 7.4%
+2024-12-06 13:56:02 - Memory Usage: 31.2% (Used: 148 MB, Total: 949 MB)
+2024-12-06 13:56:02 - Disk Usage: 22.1% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:56:02 - Network: Sent: 1 MB, Received: 75 MB
+2024-12-06 13:57:02 - CPU Usage: 11.5%
+2024-12-06 13:57:02 - Memory Usage: 31.2% (Used: 148 MB, Total: 949 MB)
+2024-12-06 13:57:02 - Disk Usage: 22.1% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:57:02 - Network: Sent: 1 MB, Received: 75 MB
+2024-12-06 13:58:02 - CPU Usage: 1.0%
+2024-12-06 13:58:02 - Memory Usage: 31.2% (Used: 148 MB, Total: 949 MB)
+2024-12-06 13:58:02 - Disk Usage: 22.1% (Used: 1 GB, Total: 7 GB)
+2024-12-06 13:58:02 - Network: Sent: 1 MB, Received: 75 MB

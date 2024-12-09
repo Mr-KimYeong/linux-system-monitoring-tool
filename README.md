@@ -16,4 +16,4 @@ This Python script monitors system health and performance metrics on Linux serve
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/linux-system-monitoring-tool.git
+   git clone https://github.com/Mr-KimYeong/linux-system-monitoring-tool.git
